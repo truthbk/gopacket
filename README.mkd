@@ -3,6 +3,8 @@
 This library provides packet decoding capabilities for Go.
 See [godoc](https://godoc.org/github.com/google/gopacket) for more details.
 
+This fork will link the executable statically with libpcap.
+
 [![Build Status](https://travis-ci.org/google/gopacket.svg?branch=master)](https://travis-ci.org/google/gopacket)
 [![GoDoc](https://godoc.org/github.com/google/gopacket?status.svg)](https://godoc.org/github.com/google/gopacket)
 
